@@ -1,0 +1,37 @@
+body{
+    height: 100vh;
+    width: 100%;
+    /* background-color: green; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+}
+.total{
+    height: 550px;
+    width: 400px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    border-top: 1px solid greys;
+}
+.ayomi{
+    height: 200px;
+    width: 400px;
+    border-radius:10px 10px 0 0 ;
+}
+.history{
+    font-size: 50px;
+    position: relative;
+}
+.down{
+    border-top: 1px solid grey ;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.link{
+text-decoration: none;
+}
